@@ -1,4 +1,3 @@
-
 from ARCGenIIIPORIS import *
 
 class ARCGenIII_physical(ARCGenIIIPORIS):

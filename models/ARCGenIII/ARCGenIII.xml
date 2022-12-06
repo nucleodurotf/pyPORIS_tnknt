@@ -1,2905 +1,2905 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sub-systems-v4>
-	<value-double-range>
-		<id type="integer">2000000014</id>
-		<ident>ARC-0081</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">200</default-float>
-		<rangemax type="float">1000</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000016</id>
-		<ident>ARC-0084</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">5</default-float>
-		<rangemax type="float">1000</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">-1</id>
-		<ident>VIRT-1</ident>
-		<name>Off</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value-double-range>
-		<id type="integer">2000000021</id>
-		<ident>ARC-0065</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2048</default-float>
-		<rangemax type="float">4098</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000023</id>
-		<ident>ARC-0067</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2048</default-float>
-		<rangemax type="float">4098</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000025</id>
-		<ident>ARC-0063</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2048</default-float>
-		<rangemax type="float">4098</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000027</id>
-		<ident>ARC-0069</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2048</default-float>
-		<rangemax type="float">4098</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">-2</id>
-		<ident>VIRT-2</ident>
-		<name>On</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-3</id>
-		<ident>VIRT-3</ident>
-		<name>Off</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value-double-range>
-		<id type="integer">2000000030</id>
-		<ident>ARC-0035</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">1</default-float>
-		<rangemax type="float">4294967.295</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000033</id>
-		<ident>ARC-0120</ident>
-		<name>FT_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">0</default-float>
-		<rangemax type="float">360</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">-4</id>
-		<ident>VIRT-4</ident>
-		<name>SLW</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-5</id>
-		<ident>VIRT-5</ident>
-		<name>MED</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-6</id>
-		<ident>VIRT-6</ident>
-		<name>FST</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value-double-range>
-		<id type="integer">2000000040</id>
-		<ident>ARC-0071</ident>
-		<name>Multiple_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">10</default-float>
-		<rangemax type="float">4294967295</rangemax>
-		<rangemin type="float">2</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">2000000042</id>
-		<ident>ARC-0131</ident>
-		<name>1</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value-double-range>
-		<id type="integer">2000000043</id>
-		<ident>ARC-0124</ident>
-		<name>Normal_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2</default-float>
-		<rangemax type="float">15</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">-7</id>
-		<ident>VIRT-7</ident>
-		<name>None</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-8</id>
-		<ident>VIRT-8</ident>
-		<name>Parallel</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-9</id>
-		<ident>VIRT-9</ident>
-		<name>Serial</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-10</id>
-		<ident>VIRT-10</ident>
-		<name>QuadCCD</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-11</id>
-		<ident>VIRT-11</ident>
-		<name>QuadIR</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-12</id>
-		<ident>VIRT-12</ident>
-		<name>CDSQuad</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">-13</id>
-		<ident>VIRT-13</ident>
-		<name>HawaiiRG</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value-double-range>
-		<id type="integer">2000000061</id>
-		<ident>ARC-0022</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">4112</default-float>
-		<rangemax type="float">4112</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000063</id>
-		<ident>ARC-0127</ident>
-		<name>FTRange</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">2056</default-float>
-		<rangemax type="float">2056</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value-double-range>
-		<id type="integer">2000000065</id>
-		<ident>ARC-0024</ident>
-		<name>Full_Range</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>ValueDoubleRange</type>
-		<value-formatter-id type="integer">5</value-formatter-id>
-		<default-float type="float">4096</default-float>
-		<rangemax type="float">4096</rangemax>
-		<rangemin type="float">0</rangemin>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value-double-range>
-	<value>
-		<id type="integer">2000000069</id>
-		<ident>ARC-0026</ident>
-		<name>1x1</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">2000000070</id>
-		<ident>ARC-0027</ident>
-		<name>1x2</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">2000000071</id>
-		<ident>ARC-0028</ident>
-		<name>2x1</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<value>
-		<id type="integer">2000000072</id>
-		<ident>ARC-0029</ident>
-		<name>2x2</name>
-		<node-type-id type="integer">5</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Value</type>
-		<value-formatter-id type="integer" nil="true"/>
-		<destinations type="array"/>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</value>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000015</id>
-		<ident>ARC-0082</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000014</id>
-				<ident>ARC-0081</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000017</id>
-		<ident>ARC-0085</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000016</id>
-				<ident>ARC-0084</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000018</id>
-		<ident>ARC-0041</ident>
-		<name>Off</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-1</id>
-				<ident>VIRT-1</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000028</id>
-		<ident>ARC-0033</ident>
-		<name>On</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-2</id>
-				<ident>VIRT-2</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000029</id>
-		<ident>ARC-0034</ident>
-		<name>Off</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-3</id>
-				<ident>VIRT-3</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000031</id>
-		<ident>ARC-0036</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000030</id>
-				<ident>ARC-0035</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000034</id>
-		<ident>ARC-0094</ident>
-		<name>SLW</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-4</id>
-				<ident>VIRT-4</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000035</id>
-		<ident>ARC-0095</ident>
-		<name>MED</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-5</id>
-				<ident>VIRT-5</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000036</id>
-		<ident>ARC-0096</ident>
-		<name>FST</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-6</id>
-				<ident>VIRT-6</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000044</id>
-		<ident>ARC-0125</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000043</id>
-				<ident>ARC-0124</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000053</id>
-		<ident>ARC-0055</ident>
-		<name>None</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-7</id>
-				<ident>VIRT-7</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000054</id>
-		<ident>ARC-0056</ident>
-		<name>Parallel</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-8</id>
-				<ident>VIRT-8</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000055</id>
-		<ident>ARC-0057</ident>
-		<name>Serial</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-9</id>
-				<ident>VIRT-9</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000056</id>
-		<ident>ARC-0058</ident>
-		<name>QuadCCD</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-10</id>
-				<ident>VIRT-10</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000057</id>
-		<ident>ARC-0059</ident>
-		<name>QuadIR</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-11</id>
-				<ident>VIRT-11</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000058</id>
-		<ident>ARC-0060</ident>
-		<name>CDSQuad</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-12</id>
-				<ident>VIRT-12</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000059</id>
-		<ident>ARC-0061</ident>
-		<name>HawaiiRG</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-13</id>
-				<ident>VIRT-13</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000062</id>
-		<ident>ARC-0023</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000061</id>
-				<ident>ARC-0022</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000064</id>
-		<ident>ARC-0128</ident>
-		<name>Half</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000063</id>
-				<ident>ARC-0127</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000066</id>
-		<ident>ARC-0025</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000065</id>
-				<ident>ARC-0024</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000067</id>
-		<ident>ARC-0100</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000062</id>
-				<ident>ARC-0023</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000066</id>
-				<ident>ARC-0025</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000068</id>
-		<ident>ARC-0129</ident>
-		<name>FT</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000064</id>
-				<ident>ARC-0128</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000066</id>
-				<ident>ARC-0025</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000073</id>
-		<ident>ARC-0031</ident>
-		<name>All</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000069</id>
-				<ident>ARC-0026</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000070</id>
-				<ident>ARC-0027</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000071</id>
-				<ident>ARC-0028</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000072</id>
-				<ident>ARC-0029</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-22</id>
-		<ident>ENG-22</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000054</id>
-				<ident>ARC-0056</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000055</id>
-				<ident>ARC-0057</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000056</id>
-				<ident>ARC-0058</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000057</id>
-				<ident>ARC-0059</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000058</id>
-				<ident>ARC-0060</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000059</id>
-				<ident>ARC-0061</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-24</id>
-		<ident>ENG-24</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000062</id>
-				<ident>ARC-0023</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000064</id>
-				<ident>ARC-0128</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000066</id>
-				<ident>ARC-0025</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000020</id>
-		<ident>ARC-0066</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000021</id>
-				<ident>ARC-0065</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000022</id>
-		<ident>ARC-0068</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000023</id>
-				<ident>ARC-0067</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000024</id>
-		<ident>ARC-0064</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000025</id>
-				<ident>ARC-0063</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000026</id>
-		<ident>ARC-0070</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000027</id>
-				<ident>ARC-0069</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000032</id>
-		<ident>ARC-0119</ident>
-		<name>FT</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000033</id>
-				<ident>ARC-0120</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000039</id>
-		<ident>ARC-0072</ident>
-		<name>Multiple</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000040</id>
-				<ident>ARC-0071</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000041</id>
-		<ident>ARC-0037</ident>
-		<name>Single</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000042</id>
-				<ident>ARC-0131</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000045</id>
-		<ident>ARC-0134</ident>
-		<name>NoShutter</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000031</id>
-				<ident>ARC-0036</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000046</id>
-		<ident>ARC-0136</ident>
-		<name>Calibration</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000028</id>
-				<ident>ARC-0033</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000031</id>
-				<ident>ARC-0036</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000044</id>
-				<ident>ARC-0125</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000047</id>
-		<ident>ARC-0087</ident>
-		<name>0x0</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000048</id>
-		<ident>ARC-0088</ident>
-		<name>0x1</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000049</id>
-		<ident>ARC-0089</ident>
-		<name>0x2</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000050</id>
-		<ident>ARC-0090</ident>
-		<name>0x3</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000051</id>
-		<ident>ARC-0091</ident>
-		<name>ALL</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000056</id>
-				<ident>ARC-0058</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000052</id>
-		<ident>ARC-0092</ident>
-		<name>TWO</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000055</id>
-				<ident>ARC-0057</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000074</id>
-		<ident>ARC-0137</ident>
-		<name>Calibration</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000018</id>
-				<ident>ARC-0041</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000048</id>
-				<ident>ARC-0088</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000049</id>
-				<ident>ARC-0089</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000050</id>
-				<ident>ARC-0090</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000051</id>
-				<ident>ARC-0091</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000067</id>
-				<ident>ARC-0100</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000046</id>
-				<ident>ARC-0136</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-18</id>
-		<ident>ENG-18</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000020</id>
-				<ident>ARC-0066</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000022</id>
-				<ident>ARC-0068</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000024</id>
-				<ident>ARC-0064</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000026</id>
-				<ident>ARC-0070</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-19</id>
-		<ident>ENG-19</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000028</id>
-				<ident>ARC-0033</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000031</id>
-				<ident>ARC-0036</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000032</id>
-				<ident>ARC-0119</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000044</id>
-				<ident>ARC-0125</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000013</id>
-		<ident>ARC-0079</ident>
-		<name>Shuffling</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000015</id>
-				<ident>ARC-0082</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000017</id>
-				<ident>ARC-0085</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000048</id>
-				<ident>ARC-0088</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000049</id>
-				<ident>ARC-0089</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000050</id>
-				<ident>ARC-0090</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000051</id>
-				<ident>ARC-0091</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000067</id>
-				<ident>ARC-0100</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000045</id>
-				<ident>ARC-0134</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000019</id>
-		<ident>ARC-0042</ident>
-		<name>On</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000022</id>
-				<ident>ARC-0068</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000026</id>
-				<ident>ARC-0070</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000020</id>
-				<ident>ARC-0066</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000024</id>
-				<ident>ARC-0064</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000037</id>
-		<ident>ARC-0104</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000028</id>
-				<ident>ARC-0033</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000031</id>
-				<ident>ARC-0036</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000038</id>
-		<ident>ARC-0114</ident>
-		<name>FT</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000032</id>
-				<ident>ARC-0119</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000060</id>
-		<ident>ARC-0126</ident>
-		<name>NormalWindow</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000019</id>
-				<ident>ARC-0042</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000037</id>
-				<ident>ARC-0104</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-17</id>
-		<ident>ENG-17</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000015</id>
-				<ident>ARC-0082</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000017</id>
-				<ident>ARC-0085</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000018</id>
-				<ident>ARC-0041</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000019</id>
-				<ident>ARC-0042</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000037</id>
-				<ident>ARC-0104</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000038</id>
-				<ident>ARC-0114</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000045</id>
-				<ident>ARC-0134</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000046</id>
-				<ident>ARC-0136</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000048</id>
-				<ident>ARC-0088</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000049</id>
-				<ident>ARC-0089</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000050</id>
-				<ident>ARC-0090</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000051</id>
-				<ident>ARC-0091</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000067</id>
-				<ident>ARC-0100</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000068</id>
-				<ident>ARC-0129</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-18</id>
-				<ident>ENG-18</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-19</id>
-				<ident>ENG-19</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-22</id>
-				<ident>ENG-22</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-24</id>
-				<ident>ENG-24</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000011</id>
-		<ident>ARC-0077</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000018</id>
-				<ident>ARC-0041</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000037</id>
-				<ident>ARC-0104</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000048</id>
-				<ident>ARC-0088</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000049</id>
-				<ident>ARC-0089</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000050</id>
-				<ident>ARC-0090</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000051</id>
-				<ident>ARC-0091</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000067</id>
-				<ident>ARC-0100</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000012</id>
-		<ident>ARC-0078</ident>
-		<name>FrameTransfer</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000038</id>
-				<ident>ARC-0114</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000068</id>
-				<ident>ARC-0129</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000075</id>
-		<ident>ARC-0098</ident>
-		<name>Normal</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000011</id>
-				<ident>ARC-0077</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000060</id>
-				<ident>ARC-0126</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000076</id>
-		<ident>ARC-0105</ident>
-		<name>Extended</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000013</id>
-				<ident>ARC-0079</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000012</id>
-				<ident>ARC-0078</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000011</id>
-				<ident>ARC-0077</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000060</id>
-				<ident>ARC-0126</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000077</id>
-		<ident>ARC-0138</ident>
-		<name>Extended_2</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000013</id>
-				<ident>ARC-0079</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000012</id>
-				<ident>ARC-0078</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000011</id>
-				<ident>ARC-0077</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000060</id>
-				<ident>ARC-0126</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000074</id>
-				<ident>ARC-0137</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-16</id>
-		<ident>ENG-16</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000011</id>
-				<ident>ARC-0077</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000012</id>
-				<ident>ARC-0078</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000013</id>
-				<ident>ARC-0079</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000060</id>
-				<ident>ARC-0126</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000074</id>
-				<ident>ARC-0137</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-17</id>
-				<ident>ENG-17</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000006</id>
-		<ident>ARC-0021</ident>
-		<name>tim</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000075</id>
-				<ident>ARC-0098</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000007</id>
-		<ident>ARC-0062</ident>
-		<name>osiris2</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000076</id>
-				<ident>ARC-0105</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000008</id>
-		<ident>ARC-0073</ident>
-		<name>osiris3</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000077</id>
-				<ident>ARC-0138</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000009</id>
-		<ident>ARC-0074</ident>
-		<name>osiris4</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000077</id>
-				<ident>ARC-0138</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000010</id>
-		<ident>ARC-0075</ident>
-		<name>osiris5</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000077</id>
-				<ident>ARC-0138</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-15</id>
-		<ident>ENG-15</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000075</id>
-				<ident>ARC-0098</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000076</id>
-				<ident>ARC-0105</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000077</id>
-				<ident>ARC-0138</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-16</id>
-				<ident>ENG-16</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000001</id>
-		<ident>ARC-0018</ident>
-		<name>Real</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000006</id>
-				<ident>ARC-0021</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000007</id>
-				<ident>ARC-0062</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000008</id>
-				<ident>ARC-0073</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000009</id>
-				<ident>ARC-0074</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000010</id>
-				<ident>ARC-0075</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">2000000002</id>
-		<ident>ARC-0110</ident>
-		<name>Emulated</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000006</id>
-				<ident>ARC-0021</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000007</id>
-				<ident>ARC-0062</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000008</id>
-				<ident>ARC-0073</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000009</id>
-				<ident>ARC-0074</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000010</id>
-				<ident>ARC-0075</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<mode>
-		<default-mode-id type="integer" nil="true"/>
-		<default-value-id type="integer" nil="true"/>
-		<id type="integer">-14</id>
-		<ident>ENG-14</ident>
-		<name>Engineering</name>
-		<node-type-id type="integer">6</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>Mode</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000006</id>
-				<ident>ARC-0021</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000007</id>
-				<ident>ARC-0062</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000008</id>
-				<ident>ARC-0073</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000009</id>
-				<ident>ARC-0074</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000010</id>
-				<ident>ARC-0075</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-15</id>
-				<ident>ENG-15</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</mode>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">80</id>
-		<ident>ARC-0080</ident>
-		<name>ShuffleLines</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000014</id>
-				<ident>ARC-0081</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000015</id>
-				<ident>ARC-0082</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">83</id>
-		<ident>ARC-0083</ident>
-		<name>ShiftNumber</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000016</id>
-				<ident>ARC-0084</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000017</id>
-				<ident>ARC-0085</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">41</id>
-		<ident>ARC-0044</ident>
-		<name>Cols</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000020</id>
-				<ident>ARC-0066</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000021</id>
-				<ident>ARC-0065</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">42</id>
-		<ident>ARC-0045</ident>
-		<name>offsetRow</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000022</id>
-				<ident>ARC-0068</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000023</id>
-				<ident>ARC-0067</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">40</id>
-		<ident>ARC-0043</ident>
-		<name>Rows</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000024</id>
-				<ident>ARC-0064</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000025</id>
-				<ident>ARC-0063</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">43</id>
-		<ident>ARC-0046</ident>
-		<name>offsetCol</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000026</id>
-				<ident>ARC-0070</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000027</id>
-				<ident>ARC-0069</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">6</id>
-		<ident>ARC-0009</ident>
-		<name>OpenShutter</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-2</id>
-				<ident>VIRT-2</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000028</id>
-				<ident>ARC-0033</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-3</id>
-				<ident>VIRT-3</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000029</id>
-				<ident>ARC-0034</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">7</id>
-		<ident>ARC-0010</ident>
-		<name>ExpTime</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000030</id>
-				<ident>ARC-0035</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000031</id>
-				<ident>ARC-0036</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000032</id>
-				<ident>ARC-0119</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000033</id>
-				<ident>ARC-0120</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">93</id>
-		<ident>ARC-0093</ident>
-		<name>PixelSpeed</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-4</id>
-				<ident>VIRT-4</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000034</id>
-				<ident>ARC-0094</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-5</id>
-				<ident>VIRT-5</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000035</id>
-				<ident>ARC-0095</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-6</id>
-				<ident>VIRT-6</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000036</id>
-				<ident>ARC-0096</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">46</id>
-		<ident>ARC-0001</ident>
-		<name>numOfFrames</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000039</id>
-				<ident>ARC-0072</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000040</id>
-				<ident>ARC-0071</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000041</id>
-				<ident>ARC-0037</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000042</id>
-				<ident>ARC-0131</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">5806</id>
-		<ident>ARC-0130</ident>
-		<name>CalibGain</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000043</id>
-				<ident>ARC-0124</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000044</id>
-				<ident>ARC-0125</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">17</id>
-		<ident>ARC-0020</ident>
-		<name>Recomposition</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-7</id>
-				<ident>VIRT-7</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000053</id>
-				<ident>ARC-0055</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-8</id>
-				<ident>VIRT-8</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000054</id>
-				<ident>ARC-0056</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-9</id>
-				<ident>VIRT-9</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000055</id>
-				<ident>ARC-0057</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-10</id>
-				<ident>VIRT-10</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000056</id>
-				<ident>ARC-0058</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-11</id>
-				<ident>VIRT-11</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000057</id>
-				<ident>ARC-0059</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-12</id>
-				<ident>VIRT-12</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000058</id>
-				<ident>ARC-0060</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">-13</id>
-				<ident>VIRT-13</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000059</id>
-				<ident>ARC-0061</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">2</id>
-		<ident>ARC-0005</ident>
-		<name>uiRows</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000061</id>
-				<ident>ARC-0022</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000062</id>
-				<ident>ARC-0023</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000063</id>
-				<ident>ARC-0127</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000064</id>
-				<ident>ARC-0128</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">3</id>
-		<ident>ARC-0006</ident>
-		<name>uiCols</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000065</id>
-				<ident>ARC-0024</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000066</id>
-				<ident>ARC-0025</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">5</id>
-		<ident>ARC-0008</ident>
-		<name>Binning</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">2000000069</id>
-				<ident>ARC-0026</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000070</id>
-				<ident>ARC-0027</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000071</id>
-				<ident>ARC-0028</ident>
-			</destination>
-			<destination type="Value">
-				<id type="integer">2000000072</id>
-				<ident>ARC-0029</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000073</id>
-				<ident>ARC-0031</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">10</id>
-		<ident>ARC-0013</ident>
-		<name>SubarrayFeature</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Value">
-				<id type="integer">-1</id>
-				<ident>VIRT-1</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000018</id>
-				<ident>ARC-0041</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000019</id>
-				<ident>ARC-0042</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">41</id>
-				<ident>ARC-0044</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">42</id>
-				<ident>ARC-0045</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">40</id>
-				<ident>ARC-0043</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">43</id>
-				<ident>ARC-0046</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-18</id>
-				<ident>ENG-18</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">103</id>
-		<ident>ARC-0103</ident>
-		<name>ExposureCtrl</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000037</id>
-				<ident>ARC-0104</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000038</id>
-				<ident>ARC-0114</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000045</id>
-				<ident>ARC-0134</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000046</id>
-				<ident>ARC-0136</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">6</id>
-				<ident>ARC-0009</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">7</id>
-				<ident>ARC-0010</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">93</id>
-				<ident>ARC-0093</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">46</id>
-				<ident>ARC-0001</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">5806</id>
-				<ident>ARC-0130</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-19</id>
-				<ident>ENG-19</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">86</id>
-		<ident>ARC-0086</ident>
-		<name>OutputSource</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000047</id>
-				<ident>ARC-0087</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000048</id>
-				<ident>ARC-0088</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000049</id>
-				<ident>ARC-0089</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000050</id>
-				<ident>ARC-0090</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000051</id>
-				<ident>ARC-0091</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000052</id>
-				<ident>ARC-0092</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">17</id>
-				<ident>ARC-0020</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-22</id>
-				<ident>ENG-22</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">99</id>
-		<ident>ARC-0099</ident>
-		<name>Dimensions</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000067</id>
-				<ident>ARC-0100</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000068</id>
-				<ident>ARC-0129</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">2</id>
-				<ident>ARC-0005</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">3</id>
-				<ident>ARC-0006</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-24</id>
-				<ident>ENG-24</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">76</id>
-		<ident>ARC-0076</ident>
-		<name>Acquisition</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000011</id>
-				<ident>ARC-0077</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000012</id>
-				<ident>ARC-0078</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000013</id>
-				<ident>ARC-0079</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000060</id>
-				<ident>ARC-0126</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000074</id>
-				<ident>ARC-0137</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">80</id>
-				<ident>ARC-0080</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">83</id>
-				<ident>ARC-0083</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">10</id>
-				<ident>ARC-0013</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">103</id>
-				<ident>ARC-0103</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">86</id>
-				<ident>ARC-0086</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">99</id>
-				<ident>ARC-0099</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">5</id>
-				<ident>ARC-0008</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-17</id>
-				<ident>ENG-17</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">97</id>
-		<ident>ARC-0097</ident>
-		<name>Variants</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000075</id>
-				<ident>ARC-0098</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000076</id>
-				<ident>ARC-0105</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000077</id>
-				<ident>ARC-0138</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">76</id>
-				<ident>ARC-0076</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-16</id>
-				<ident>ENG-16</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">4</id>
-		<ident>ARC-0007</ident>
-		<name>Firmware</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000006</id>
-				<ident>ARC-0021</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000007</id>
-				<ident>ARC-0062</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000008</id>
-				<ident>ARC-0073</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000009</id>
-				<ident>ARC-0074</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000010</id>
-				<ident>ARC-0075</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">97</id>
-				<ident>ARC-0097</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-15</id>
-				<ident>ENG-15</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
-	<sub-system>
-		<default-mode-id type="integer" nil="true"/>
-		<id type="integer">1</id>
-		<ident>ARC-0004</ident>
-		<name>ARCGenIII</name>
-		<node-type-id type="integer">4</node-type-id>
-		<project-id type="integer">13</project-id>
-		<type>SubSystem</type>
-		<destinations type="array">
-			<destination type="Mode">
-				<id type="integer">2000000001</id>
-				<ident>ARC-0018</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">2000000002</id>
-				<ident>ARC-0110</ident>
-			</destination>
-			<destination type="Cmd">
-				<id type="integer">2000000003</id>
-				<ident>ARC-0121</ident>
-			</destination>
-			<destination type="Cmd">
-				<id type="integer">2000000004</id>
-				<ident>ARC-0122</ident>
-			</destination>
-			<destination type="Cmd">
-				<id type="integer">2000000005</id>
-				<ident>ARC-0123</ident>
-			</destination>
-			<destination type="Cmd">
-				<id type="integer">2000000078</id>
-				<ident>ARC-0139</ident>
-			</destination>
-			<destination type="SubSystem">
-				<id type="integer">4</id>
-				<ident>ARC-0007</ident>
-			</destination>
-			<destination type="Mode">
-				<id type="integer">-14</id>
-				<ident>ENG-14</ident>
-			</destination>
-		</destinations>
-		<node-attributes type="array"/>
-		<labels type="array"/>
-	</sub-system>
+    <value-double-range>
+        <id type="integer">2000000014</id>
+        <ident>ARC-0081</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">200</default-float>
+        <rangemax type="float">1000</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000016</id>
+        <ident>ARC-0084</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">5</default-float>
+        <rangemax type="float">1000</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">-1</id>
+        <ident>VIRT-1</ident>
+        <name>Off</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value-double-range>
+        <id type="integer">2000000021</id>
+        <ident>ARC-0065</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2048</default-float>
+        <rangemax type="float">4098</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000023</id>
+        <ident>ARC-0067</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2048</default-float>
+        <rangemax type="float">4098</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000025</id>
+        <ident>ARC-0063</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2048</default-float>
+        <rangemax type="float">4098</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000027</id>
+        <ident>ARC-0069</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2048</default-float>
+        <rangemax type="float">4098</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">-2</id>
+        <ident>VIRT-2</ident>
+        <name>On</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-3</id>
+        <ident>VIRT-3</ident>
+        <name>Off</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value-double-range>
+        <id type="integer">2000000030</id>
+        <ident>ARC-0035</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">1</default-float>
+        <rangemax type="float">4294967.295</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000033</id>
+        <ident>ARC-0120</ident>
+        <name>FT_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">0</default-float>
+        <rangemax type="float">360</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">-4</id>
+        <ident>VIRT-4</ident>
+        <name>SLW</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-5</id>
+        <ident>VIRT-5</ident>
+        <name>MED</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-6</id>
+        <ident>VIRT-6</ident>
+        <name>FST</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value-double-range>
+        <id type="integer">2000000040</id>
+        <ident>ARC-0071</ident>
+        <name>Multiple_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">10</default-float>
+        <rangemax type="float">4294967295</rangemax>
+        <rangemin type="float">2</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">2000000042</id>
+        <ident>ARC-0131</ident>
+        <name>1</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value-double-range>
+        <id type="integer">2000000043</id>
+        <ident>ARC-0124</ident>
+        <name>Normal_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2</default-float>
+        <rangemax type="float">15</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">-7</id>
+        <ident>VIRT-7</ident>
+        <name>None</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-8</id>
+        <ident>VIRT-8</ident>
+        <name>Parallel</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-9</id>
+        <ident>VIRT-9</ident>
+        <name>Serial</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-10</id>
+        <ident>VIRT-10</ident>
+        <name>QuadCCD</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-11</id>
+        <ident>VIRT-11</ident>
+        <name>QuadIR</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-12</id>
+        <ident>VIRT-12</ident>
+        <name>CDSQuad</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">-13</id>
+        <ident>VIRT-13</ident>
+        <name>HawaiiRG</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value-double-range>
+        <id type="integer">2000000061</id>
+        <ident>ARC-0022</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">4112</default-float>
+        <rangemax type="float">4112</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000063</id>
+        <ident>ARC-0127</ident>
+        <name>FTRange</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">2056</default-float>
+        <rangemax type="float">2056</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value-double-range>
+        <id type="integer">2000000065</id>
+        <ident>ARC-0024</ident>
+        <name>Full_Range</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>ValueDoubleRange</type>
+        <value-formatter-id type="integer">5</value-formatter-id>
+        <default-float type="float">4096</default-float>
+        <rangemax type="float">4096</rangemax>
+        <rangemin type="float">0</rangemin>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value-double-range>
+    <value>
+        <id type="integer">2000000069</id>
+        <ident>ARC-0026</ident>
+        <name>1x1</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">2000000070</id>
+        <ident>ARC-0027</ident>
+        <name>1x2</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">2000000071</id>
+        <ident>ARC-0028</ident>
+        <name>2x1</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <value>
+        <id type="integer">2000000072</id>
+        <ident>ARC-0029</ident>
+        <name>2x2</name>
+        <node-type-id type="integer">5</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Value</type>
+        <value-formatter-id type="integer" nil="true"/>
+        <destinations type="array"/>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </value>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000015</id>
+        <ident>ARC-0082</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000014</id>
+                <ident>ARC-0081</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000017</id>
+        <ident>ARC-0085</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000016</id>
+                <ident>ARC-0084</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000018</id>
+        <ident>ARC-0041</ident>
+        <name>Off</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-1</id>
+                <ident>VIRT-1</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000028</id>
+        <ident>ARC-0033</ident>
+        <name>On</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-2</id>
+                <ident>VIRT-2</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000029</id>
+        <ident>ARC-0034</ident>
+        <name>Off</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-3</id>
+                <ident>VIRT-3</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000031</id>
+        <ident>ARC-0036</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000030</id>
+                <ident>ARC-0035</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000034</id>
+        <ident>ARC-0094</ident>
+        <name>SLW</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-4</id>
+                <ident>VIRT-4</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000035</id>
+        <ident>ARC-0095</ident>
+        <name>MED</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-5</id>
+                <ident>VIRT-5</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000036</id>
+        <ident>ARC-0096</ident>
+        <name>FST</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-6</id>
+                <ident>VIRT-6</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000044</id>
+        <ident>ARC-0125</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000043</id>
+                <ident>ARC-0124</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000053</id>
+        <ident>ARC-0055</ident>
+        <name>None</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-7</id>
+                <ident>VIRT-7</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000054</id>
+        <ident>ARC-0056</ident>
+        <name>Parallel</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-8</id>
+                <ident>VIRT-8</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000055</id>
+        <ident>ARC-0057</ident>
+        <name>Serial</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-9</id>
+                <ident>VIRT-9</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000056</id>
+        <ident>ARC-0058</ident>
+        <name>QuadCCD</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-10</id>
+                <ident>VIRT-10</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000057</id>
+        <ident>ARC-0059</ident>
+        <name>QuadIR</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-11</id>
+                <ident>VIRT-11</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000058</id>
+        <ident>ARC-0060</ident>
+        <name>CDSQuad</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-12</id>
+                <ident>VIRT-12</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000059</id>
+        <ident>ARC-0061</ident>
+        <name>HawaiiRG</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-13</id>
+                <ident>VIRT-13</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000062</id>
+        <ident>ARC-0023</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000061</id>
+                <ident>ARC-0022</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000064</id>
+        <ident>ARC-0128</ident>
+        <name>Half</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000063</id>
+                <ident>ARC-0127</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000066</id>
+        <ident>ARC-0025</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000065</id>
+                <ident>ARC-0024</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000067</id>
+        <ident>ARC-0100</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000062</id>
+                <ident>ARC-0023</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000066</id>
+                <ident>ARC-0025</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000068</id>
+        <ident>ARC-0129</ident>
+        <name>FT</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000064</id>
+                <ident>ARC-0128</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000066</id>
+                <ident>ARC-0025</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000073</id>
+        <ident>ARC-0031</ident>
+        <name>All</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000069</id>
+                <ident>ARC-0026</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000070</id>
+                <ident>ARC-0027</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000071</id>
+                <ident>ARC-0028</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000072</id>
+                <ident>ARC-0029</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-22</id>
+        <ident>ENG-22</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000054</id>
+                <ident>ARC-0056</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000055</id>
+                <ident>ARC-0057</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000056</id>
+                <ident>ARC-0058</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000057</id>
+                <ident>ARC-0059</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000058</id>
+                <ident>ARC-0060</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000059</id>
+                <ident>ARC-0061</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-24</id>
+        <ident>ENG-24</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000062</id>
+                <ident>ARC-0023</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000064</id>
+                <ident>ARC-0128</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000066</id>
+                <ident>ARC-0025</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000020</id>
+        <ident>ARC-0066</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000021</id>
+                <ident>ARC-0065</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000022</id>
+        <ident>ARC-0068</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000023</id>
+                <ident>ARC-0067</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000024</id>
+        <ident>ARC-0064</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000025</id>
+                <ident>ARC-0063</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000026</id>
+        <ident>ARC-0070</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000027</id>
+                <ident>ARC-0069</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000032</id>
+        <ident>ARC-0119</ident>
+        <name>FT</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000033</id>
+                <ident>ARC-0120</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000039</id>
+        <ident>ARC-0072</ident>
+        <name>Multiple</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000040</id>
+                <ident>ARC-0071</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000041</id>
+        <ident>ARC-0037</ident>
+        <name>Single</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000042</id>
+                <ident>ARC-0131</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000045</id>
+        <ident>ARC-0134</ident>
+        <name>NoShutter</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000031</id>
+                <ident>ARC-0036</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000046</id>
+        <ident>ARC-0136</ident>
+        <name>Calibration</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000028</id>
+                <ident>ARC-0033</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000031</id>
+                <ident>ARC-0036</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000044</id>
+                <ident>ARC-0125</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000047</id>
+        <ident>ARC-0087</ident>
+        <name>0x0</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000048</id>
+        <ident>ARC-0088</ident>
+        <name>0x1</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000049</id>
+        <ident>ARC-0089</ident>
+        <name>0x2</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000050</id>
+        <ident>ARC-0090</ident>
+        <name>0x3</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000051</id>
+        <ident>ARC-0091</ident>
+        <name>ALL</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000056</id>
+                <ident>ARC-0058</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000052</id>
+        <ident>ARC-0092</ident>
+        <name>TWO</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000055</id>
+                <ident>ARC-0057</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000074</id>
+        <ident>ARC-0137</ident>
+        <name>Calibration</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000018</id>
+                <ident>ARC-0041</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000048</id>
+                <ident>ARC-0088</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000049</id>
+                <ident>ARC-0089</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000050</id>
+                <ident>ARC-0090</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000051</id>
+                <ident>ARC-0091</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000067</id>
+                <ident>ARC-0100</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000046</id>
+                <ident>ARC-0136</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-18</id>
+        <ident>ENG-18</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000020</id>
+                <ident>ARC-0066</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000022</id>
+                <ident>ARC-0068</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000024</id>
+                <ident>ARC-0064</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000026</id>
+                <ident>ARC-0070</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-19</id>
+        <ident>ENG-19</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000028</id>
+                <ident>ARC-0033</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000031</id>
+                <ident>ARC-0036</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000032</id>
+                <ident>ARC-0119</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000044</id>
+                <ident>ARC-0125</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000013</id>
+        <ident>ARC-0079</ident>
+        <name>Shuffling</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000015</id>
+                <ident>ARC-0082</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000017</id>
+                <ident>ARC-0085</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000048</id>
+                <ident>ARC-0088</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000049</id>
+                <ident>ARC-0089</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000050</id>
+                <ident>ARC-0090</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000051</id>
+                <ident>ARC-0091</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000067</id>
+                <ident>ARC-0100</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000045</id>
+                <ident>ARC-0134</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000019</id>
+        <ident>ARC-0042</ident>
+        <name>On</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000022</id>
+                <ident>ARC-0068</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000026</id>
+                <ident>ARC-0070</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000020</id>
+                <ident>ARC-0066</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000024</id>
+                <ident>ARC-0064</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000037</id>
+        <ident>ARC-0104</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000028</id>
+                <ident>ARC-0033</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000031</id>
+                <ident>ARC-0036</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000038</id>
+        <ident>ARC-0114</ident>
+        <name>FT</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000032</id>
+                <ident>ARC-0119</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000060</id>
+        <ident>ARC-0126</ident>
+        <name>NormalWindow</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000019</id>
+                <ident>ARC-0042</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000037</id>
+                <ident>ARC-0104</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-17</id>
+        <ident>ENG-17</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000015</id>
+                <ident>ARC-0082</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000017</id>
+                <ident>ARC-0085</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000018</id>
+                <ident>ARC-0041</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000019</id>
+                <ident>ARC-0042</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000037</id>
+                <ident>ARC-0104</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000038</id>
+                <ident>ARC-0114</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000045</id>
+                <ident>ARC-0134</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000046</id>
+                <ident>ARC-0136</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000048</id>
+                <ident>ARC-0088</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000049</id>
+                <ident>ARC-0089</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000050</id>
+                <ident>ARC-0090</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000051</id>
+                <ident>ARC-0091</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000067</id>
+                <ident>ARC-0100</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000068</id>
+                <ident>ARC-0129</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-18</id>
+                <ident>ENG-18</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-19</id>
+                <ident>ENG-19</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-22</id>
+                <ident>ENG-22</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-24</id>
+                <ident>ENG-24</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000011</id>
+        <ident>ARC-0077</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000018</id>
+                <ident>ARC-0041</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000037</id>
+                <ident>ARC-0104</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000048</id>
+                <ident>ARC-0088</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000049</id>
+                <ident>ARC-0089</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000050</id>
+                <ident>ARC-0090</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000051</id>
+                <ident>ARC-0091</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000067</id>
+                <ident>ARC-0100</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000012</id>
+        <ident>ARC-0078</ident>
+        <name>FrameTransfer</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000038</id>
+                <ident>ARC-0114</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000068</id>
+                <ident>ARC-0129</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000075</id>
+        <ident>ARC-0098</ident>
+        <name>Normal</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000011</id>
+                <ident>ARC-0077</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000060</id>
+                <ident>ARC-0126</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000076</id>
+        <ident>ARC-0105</ident>
+        <name>Extended</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000013</id>
+                <ident>ARC-0079</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000012</id>
+                <ident>ARC-0078</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000011</id>
+                <ident>ARC-0077</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000060</id>
+                <ident>ARC-0126</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000077</id>
+        <ident>ARC-0138</ident>
+        <name>Extended_2</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000013</id>
+                <ident>ARC-0079</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000012</id>
+                <ident>ARC-0078</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000011</id>
+                <ident>ARC-0077</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000060</id>
+                <ident>ARC-0126</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000074</id>
+                <ident>ARC-0137</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-16</id>
+        <ident>ENG-16</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000011</id>
+                <ident>ARC-0077</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000012</id>
+                <ident>ARC-0078</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000013</id>
+                <ident>ARC-0079</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000060</id>
+                <ident>ARC-0126</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000074</id>
+                <ident>ARC-0137</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-17</id>
+                <ident>ENG-17</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000006</id>
+        <ident>ARC-0021</ident>
+        <name>tim</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000075</id>
+                <ident>ARC-0098</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000007</id>
+        <ident>ARC-0062</ident>
+        <name>osiris2</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000076</id>
+                <ident>ARC-0105</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000008</id>
+        <ident>ARC-0073</ident>
+        <name>osiris3</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000077</id>
+                <ident>ARC-0138</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000009</id>
+        <ident>ARC-0074</ident>
+        <name>osiris4</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000077</id>
+                <ident>ARC-0138</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000010</id>
+        <ident>ARC-0075</ident>
+        <name>osiris5</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000077</id>
+                <ident>ARC-0138</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-15</id>
+        <ident>ENG-15</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000075</id>
+                <ident>ARC-0098</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000076</id>
+                <ident>ARC-0105</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000077</id>
+                <ident>ARC-0138</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-16</id>
+                <ident>ENG-16</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000001</id>
+        <ident>ARC-0018</ident>
+        <name>Real</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000006</id>
+                <ident>ARC-0021</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000007</id>
+                <ident>ARC-0062</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000008</id>
+                <ident>ARC-0073</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000009</id>
+                <ident>ARC-0074</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000010</id>
+                <ident>ARC-0075</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">2000000002</id>
+        <ident>ARC-0110</ident>
+        <name>Emulated</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000006</id>
+                <ident>ARC-0021</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000007</id>
+                <ident>ARC-0062</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000008</id>
+                <ident>ARC-0073</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000009</id>
+                <ident>ARC-0074</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000010</id>
+                <ident>ARC-0075</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <mode>
+        <default-mode-id type="integer" nil="true"/>
+        <default-value-id type="integer" nil="true"/>
+        <id type="integer">-14</id>
+        <ident>ENG-14</ident>
+        <name>Engineering</name>
+        <node-type-id type="integer">6</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>Mode</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000006</id>
+                <ident>ARC-0021</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000007</id>
+                <ident>ARC-0062</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000008</id>
+                <ident>ARC-0073</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000009</id>
+                <ident>ARC-0074</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000010</id>
+                <ident>ARC-0075</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-15</id>
+                <ident>ENG-15</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </mode>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">80</id>
+        <ident>ARC-0080</ident>
+        <name>ShuffleLines</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000014</id>
+                <ident>ARC-0081</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000015</id>
+                <ident>ARC-0082</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">83</id>
+        <ident>ARC-0083</ident>
+        <name>ShiftNumber</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000016</id>
+                <ident>ARC-0084</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000017</id>
+                <ident>ARC-0085</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">41</id>
+        <ident>ARC-0044</ident>
+        <name>Cols</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000020</id>
+                <ident>ARC-0066</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000021</id>
+                <ident>ARC-0065</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">42</id>
+        <ident>ARC-0045</ident>
+        <name>offsetRow</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000022</id>
+                <ident>ARC-0068</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000023</id>
+                <ident>ARC-0067</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">40</id>
+        <ident>ARC-0043</ident>
+        <name>Rows</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000024</id>
+                <ident>ARC-0064</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000025</id>
+                <ident>ARC-0063</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">43</id>
+        <ident>ARC-0046</ident>
+        <name>offsetCol</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000026</id>
+                <ident>ARC-0070</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000027</id>
+                <ident>ARC-0069</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">6</id>
+        <ident>ARC-0009</ident>
+        <name>OpenShutter</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-2</id>
+                <ident>VIRT-2</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000028</id>
+                <ident>ARC-0033</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-3</id>
+                <ident>VIRT-3</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000029</id>
+                <ident>ARC-0034</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">7</id>
+        <ident>ARC-0010</ident>
+        <name>ExpTime</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000030</id>
+                <ident>ARC-0035</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000031</id>
+                <ident>ARC-0036</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000032</id>
+                <ident>ARC-0119</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000033</id>
+                <ident>ARC-0120</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">93</id>
+        <ident>ARC-0093</ident>
+        <name>PixelSpeed</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-4</id>
+                <ident>VIRT-4</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000034</id>
+                <ident>ARC-0094</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-5</id>
+                <ident>VIRT-5</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000035</id>
+                <ident>ARC-0095</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-6</id>
+                <ident>VIRT-6</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000036</id>
+                <ident>ARC-0096</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">46</id>
+        <ident>ARC-0001</ident>
+        <name>numOfFrames</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000039</id>
+                <ident>ARC-0072</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000040</id>
+                <ident>ARC-0071</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000041</id>
+                <ident>ARC-0037</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000042</id>
+                <ident>ARC-0131</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">5806</id>
+        <ident>ARC-0130</ident>
+        <name>CalibGain</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000043</id>
+                <ident>ARC-0124</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000044</id>
+                <ident>ARC-0125</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">17</id>
+        <ident>ARC-0020</ident>
+        <name>Recomposition</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-7</id>
+                <ident>VIRT-7</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000053</id>
+                <ident>ARC-0055</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-8</id>
+                <ident>VIRT-8</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000054</id>
+                <ident>ARC-0056</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-9</id>
+                <ident>VIRT-9</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000055</id>
+                <ident>ARC-0057</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-10</id>
+                <ident>VIRT-10</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000056</id>
+                <ident>ARC-0058</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-11</id>
+                <ident>VIRT-11</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000057</id>
+                <ident>ARC-0059</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-12</id>
+                <ident>VIRT-12</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000058</id>
+                <ident>ARC-0060</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">-13</id>
+                <ident>VIRT-13</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000059</id>
+                <ident>ARC-0061</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">2</id>
+        <ident>ARC-0005</ident>
+        <name>uiRows</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000061</id>
+                <ident>ARC-0022</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000062</id>
+                <ident>ARC-0023</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000063</id>
+                <ident>ARC-0127</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000064</id>
+                <ident>ARC-0128</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">3</id>
+        <ident>ARC-0006</ident>
+        <name>uiCols</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000065</id>
+                <ident>ARC-0024</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000066</id>
+                <ident>ARC-0025</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">5</id>
+        <ident>ARC-0008</ident>
+        <name>Binning</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">2000000069</id>
+                <ident>ARC-0026</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000070</id>
+                <ident>ARC-0027</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000071</id>
+                <ident>ARC-0028</ident>
+            </destination>
+            <destination type="Value">
+                <id type="integer">2000000072</id>
+                <ident>ARC-0029</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000073</id>
+                <ident>ARC-0031</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">10</id>
+        <ident>ARC-0013</ident>
+        <name>SubarrayFeature</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Value">
+                <id type="integer">-1</id>
+                <ident>VIRT-1</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000018</id>
+                <ident>ARC-0041</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000019</id>
+                <ident>ARC-0042</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">41</id>
+                <ident>ARC-0044</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">42</id>
+                <ident>ARC-0045</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">40</id>
+                <ident>ARC-0043</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">43</id>
+                <ident>ARC-0046</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-18</id>
+                <ident>ENG-18</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">103</id>
+        <ident>ARC-0103</ident>
+        <name>ExposureCtrl</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000037</id>
+                <ident>ARC-0104</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000038</id>
+                <ident>ARC-0114</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000045</id>
+                <ident>ARC-0134</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000046</id>
+                <ident>ARC-0136</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">6</id>
+                <ident>ARC-0009</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">7</id>
+                <ident>ARC-0010</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">93</id>
+                <ident>ARC-0093</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">46</id>
+                <ident>ARC-0001</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">5806</id>
+                <ident>ARC-0130</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-19</id>
+                <ident>ENG-19</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">86</id>
+        <ident>ARC-0086</ident>
+        <name>OutputSource</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000047</id>
+                <ident>ARC-0087</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000048</id>
+                <ident>ARC-0088</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000049</id>
+                <ident>ARC-0089</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000050</id>
+                <ident>ARC-0090</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000051</id>
+                <ident>ARC-0091</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000052</id>
+                <ident>ARC-0092</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">17</id>
+                <ident>ARC-0020</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-22</id>
+                <ident>ENG-22</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">99</id>
+        <ident>ARC-0099</ident>
+        <name>Dimensions</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000067</id>
+                <ident>ARC-0100</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000068</id>
+                <ident>ARC-0129</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">2</id>
+                <ident>ARC-0005</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">3</id>
+                <ident>ARC-0006</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-24</id>
+                <ident>ENG-24</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">76</id>
+        <ident>ARC-0076</ident>
+        <name>Acquisition</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000011</id>
+                <ident>ARC-0077</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000012</id>
+                <ident>ARC-0078</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000013</id>
+                <ident>ARC-0079</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000060</id>
+                <ident>ARC-0126</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000074</id>
+                <ident>ARC-0137</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">80</id>
+                <ident>ARC-0080</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">83</id>
+                <ident>ARC-0083</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">10</id>
+                <ident>ARC-0013</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">103</id>
+                <ident>ARC-0103</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">86</id>
+                <ident>ARC-0086</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">99</id>
+                <ident>ARC-0099</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">5</id>
+                <ident>ARC-0008</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-17</id>
+                <ident>ENG-17</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">97</id>
+        <ident>ARC-0097</ident>
+        <name>Variants</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000075</id>
+                <ident>ARC-0098</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000076</id>
+                <ident>ARC-0105</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000077</id>
+                <ident>ARC-0138</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">76</id>
+                <ident>ARC-0076</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-16</id>
+                <ident>ENG-16</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">4</id>
+        <ident>ARC-0007</ident>
+        <name>Firmware</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000006</id>
+                <ident>ARC-0021</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000007</id>
+                <ident>ARC-0062</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000008</id>
+                <ident>ARC-0073</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000009</id>
+                <ident>ARC-0074</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000010</id>
+                <ident>ARC-0075</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">97</id>
+                <ident>ARC-0097</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-15</id>
+                <ident>ENG-15</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
+    <sub-system>
+        <default-mode-id type="integer" nil="true"/>
+        <id type="integer">1</id>
+        <ident>ARC-0004</ident>
+        <name>ARCGenIII</name>
+        <node-type-id type="integer">4</node-type-id>
+        <project-id type="integer">13</project-id>
+        <type>SubSystem</type>
+        <destinations type="array">
+            <destination type="Mode">
+                <id type="integer">2000000001</id>
+                <ident>ARC-0018</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">2000000002</id>
+                <ident>ARC-0110</ident>
+            </destination>
+            <destination type="Cmd">
+                <id type="integer">2000000003</id>
+                <ident>ARC-0121</ident>
+            </destination>
+            <destination type="Cmd">
+                <id type="integer">2000000004</id>
+                <ident>ARC-0122</ident>
+            </destination>
+            <destination type="Cmd">
+                <id type="integer">2000000005</id>
+                <ident>ARC-0123</ident>
+            </destination>
+            <destination type="Cmd">
+                <id type="integer">2000000078</id>
+                <ident>ARC-0139</ident>
+            </destination>
+            <destination type="SubSystem">
+                <id type="integer">4</id>
+                <ident>ARC-0007</ident>
+            </destination>
+            <destination type="Mode">
+                <id type="integer">-14</id>
+                <ident>ENG-14</ident>
+            </destination>
+        </destinations>
+        <node-attributes type="array"/>
+        <labels type="array"/>
+    </sub-system>
 </sub-systems-v4>
