@@ -1,8 +1,12 @@
 # pyPORIS_user
 An example of how to use pyPORIS to model your own instruments
 
-* graph2poris.py: Creates a PORIS model in ODS format from a PORIS diagram in GraphML.
-* poris2xml.py: Creates a PORIS xml file from a PORIS model in ODS format.
+The purpose of this repo is provide an starting point to fork, so every user can have her/his own modeling environment with her/his own models under control system.
+The repo uses the pyPORIS toolchain (https://github.com/cosmoBots/pyPORIS) which is obtained as a submodule.
+The toolchain commands (files with *.sh) are just copied from the pyPORIS ones and adapted to the new models location.
+
+The models are located in the models folder.  You can find there some examples which you can delete once you've validated your toolchain.
+
 
 ## Requirements
 * Java
@@ -14,71 +18,69 @@ An example of how to use pyPORIS to model your own instruments
 
 NOTE: In Windows you should use 'pip' instead of 'pip3'
 
-## Preparation after cloning
+## Forking
+
+    Just go to Github https://github.com/cosmoBots/pyPORIS_user and press the fork button.  Set the new path, let's say you create the fork in https://github.com/myname/myporismodels
+
+    Then copy the clone link for the new forked repository and execute the typical clone action, something like this:
+
+    git clone git@github.com:myname/myporismodels.git
+
+    Then you can enter the cloned repository folder:
+
+    cd myporismodels
+
+## Preparation after forking
+
 Execute:
 
     git submodule update --init --recursive
 
-It will populate pyPORIS folder and the AstroPorisPlayer binaries.
+It will populate pyPORIS folder and the AstroPorisPlayer binaries.  pyPORIS contains the PORIS toolkit toolchain to parse models in GraphML diagrams and convert them to ODS and XML files, and to create a Python class from the model, and AstroPorisPlayer allows you to interactively play with a configuration panel (using Java Swing technology) so you can check your model fits your expectations.
 
-## Converting model to *.ODS, *.XML and open a Java Swing Configuration panel
+## Using the toolchain
 
-The PORIS toolkit allows you to convert your model in a GraphML file to models in ODS and XML files.
-The ODS file is a representation of the model in an spreadsheet format, useful for later processes like creating Python or C++ classes from it, or importing into cosmoSys.
-The XML file is used by the AstroPorisPlayer Java Swing frame app to show an interactive panel to explore/validate your model.
-The last step of this conversion process is to show the AstroPorisPlayer panel.
+This repo has been done so you can execute some of the features pyPORIS provides.  Not all the features provided from pyPORIS have been translated to this repository.  Please check https://github.com/cosmoBots/pyPORIS/blob/main/README.md for details.
 
-The model must be specified by indicating the relative path from the "models" folder to the GraphML file, but without including the .graphml extension.
-Example: if you would like to convert the ./models/example/example.graphml file, just provide example/example as an argument.
+The features currently added are:
 
-### Linux / *nix
-Simply:
+- porispanel.sh Creates a PORIS representation in ODS and XML format from a PORIS diagram in GraphML, and launches a configuration panel to validate the model.
+- porispanel_csys.sh Adds to porispanel.sh the synchronization with a cosmoSys instance.
+- redoPorisPython.sh and doPorisPython.sh converts an ODS representation of a PORIS model into convenient Python classes.
 
-    ./porispanel.sh example/example
+The toolchain commands have been adapted to have the same behaviour of the pyPORIS ones, but acting on ./models and ./output folders of this repo instead of acting on ./pyPORIS/models or ./pyPORIS/output
 
-or, if wanting to sync it with a cosmoSys instance:
+Apart from this transparent adaptation, the syntax is the same.
 
-    ./porispanel_csys.sh example/example
+## Updating the toolchain as time passes
 
-The cosmoSys instance has to be configured by copying pyPORIS/config_rm_enabled.py.example to pyPORIS/config_rm_enabled.py and adding your secrets there.
+The pyPORIS submodule is cloned and initialized from an specific commit entry, identified by a hash.  If you would like to update the submodule to point to another commit entry you should update it manually.  Let's say you want to update to a new commit entry 9343abf...
 
-### Windows
+cd pyPORIS
+git fetch --all
+git checkout -b 9343abf
+git pull
+cd ..
+git commit pyPORIS
+git commit -m "Updated to a different pyPORIS version"
 
-POLICY: In cosmoBots.eu we are targeted to produce open source code for open source platforms.  Windows or Mac adaptations are never maintained by us.  They appear into our projects as external contributions, and we never check possible regressions after we update our tools.  Maintenance for those external contributions shall be external too.  Pull requests are welcome.
+If you want to prepare your local copy to be regularly updating it to use latest pyPORIS version in the main branch:
 
-(so thanks Claudia)
+cd pyPORIS
+git fetch --all
+git checkout -b main
+git pull
+cd ..
+git commit pyPORIS
+git commit -m "Updated to the latest commit in main branch of pyPORIS"
 
-Simply:
+and then, regularly update your pyPORIS using the following sentence.
 
-    winporispanel.bat example\example
+git submodule update --init --recursive
 
-or, if wanting to sync it with a cosmoSys instance:
+Take into account that pyPORIS might be changing the syntaxes or the procedures, so you will be responsible of keeping your *.sh or *.bat files compatible with the version of pyPORIS you are using.
 
-    winporispanel_csys.bat example\example
-
-The cosmoSys instance has to be configured by copying pyPORIS\config_rm_enabled.py.example to pyPORIS\config_rm_enabled.py and adding your secrets there.
-
-## Generating Python PORIS classes from your models
-
-Requirement: you must have generated an ODS file, check above.
-
-### Linux / *nix
-./redoPorisPython example/example
-
-Simply:
-
-    ./redoPorisPython.sh example/example
-
-### Windows
-
-Not yet implemented, but collaborations are welcome.  
-
-POLICY: In cosmoBots.eu we are targeted to produce open source code for open source platforms.  Windows or Mac adaptations are never maintained by us.  They appear into our projects as external contributions, and we never check possible regressions after we update our tools.  Maintenance for those external contributions shall be external too.  Pull requests are welcome.
-
-HINTS: Someone might want to adapt the redoPorisPython.sh to a redoPorisPython.bat, and doPorisPython.sh to doPorisPython.bat.
-The generator is using symbolic links to allow the generated code to live in separate folders but being easy to test.  A similar behaviour should be created for windows.  
-Easiest way is copying the PORIS/PORIS.py class and the automatically generated output/modename/modelname/modelnamePORIS.py class inside the output/modelname/modelname_physical/ folder, but having duplicated files is alwayas a bad idea. 
-In order to have a repo which is easy to maintain, windows symbolic links solutions have to be analysed.
+HINT: From time to time we at cosmoBots.eu update the repository you initially forked from.  You can check the changes occurred in it to have an idea of the adaptations needed to support newer versions of pyPORIS
 
 ## Conclusion
 Happy modeling!
