@@ -1,3 +1,4 @@
 models/*.ods
 models/*.xml
 models/*.backup
+__pycache__

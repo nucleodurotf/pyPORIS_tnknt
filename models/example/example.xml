@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sub-systems-v4>
+	<value>
+		<id type="integer">2000000001</id>
+		<ident>EX-1826</ident>
+		<name>0_6</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000002</id>
+		<ident>EX-1827</ident>
+		<name>1_0</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000003</id>
+		<ident>EX-1828</ident>
+		<name>2_0</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000005</id>
+		<ident>EX-1830</ident>
+		<name>Half-field</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000007</id>
+		<ident>EX-1832</ident>
+		<name>R500</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000008</id>
+		<ident>EX-1833</ident>
+		<name>R1000</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000009</id>
+		<ident>EX-1834</ident>
+		<name>R2000</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value-double-range>
+		<id type="integer">2000000011</id>
+		<ident>EX-1836</ident>
+		<name>NormalRange</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>ValueDoubleRange</type>
+		<value-formatter-id type="integer">5</value-formatter-id>
+		<default-float type="float">1</default-float>
+		<rangemax type="float">3600</rangemax>
+		<rangemin type="float">0</rangemin>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value-double-range>
+	<value-double-range>
+		<id type="integer">2000000014</id>
+		<ident>EX-1839</ident>
+		<name>FastRange</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>ValueDoubleRange</type>
+		<value-formatter-id type="integer">5</value-formatter-id>
+		<default-float type="float">0.01</default-float>
+		<rangemax type="float">0.5</rangemax>
+		<rangemin type="float">0</rangemin>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value-double-range>
+	<value>
+		<id type="integer">2000000015</id>
+		<ident>EX-1840</ident>
+		<name>1x1</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000016</id>
+		<ident>EX-1841</ident>
+		<name>2x1</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000017</id>
+		<ident>EX-1842</ident>
+		<name>1x2</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000018</id>
+		<ident>EX-1843</ident>
+		<name>2x2</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000030</id>
+		<ident>EX-1855</ident>
+		<name>Red</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value>
+		<id type="integer">2000000031</id>
+		<ident>EX-1856</ident>
+		<name>Blue</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Value</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value>
+	<value-string>
+		<id type="integer">2000000035</id>
+		<ident>EX-1860</ident>
+		<name>userFilter</name>
+		<node-type-id type="integer">5</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>ValueString</type>
+		<value-formatter-id type="integer" nil="true"/>
+		<default-string>mycustomfilter</default-string>
+		<destinations type="array"/>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</value-string>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000004</id>
+		<ident>EX-1829</ident>
+		<name>Spectroscopy</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000001</id>
+				<ident>EX-1826</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000003</id>
+				<ident>EX-1828</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000002</id>
+				<ident>EX-1827</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000006</id>
+		<ident>EX-1831</ident>
+		<name>FastImg</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000005</id>
+				<ident>EX-1830</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000010</id>
+		<ident>EX-1835</ident>
+		<name>Normal</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000007</id>
+				<ident>EX-1832</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000008</id>
+				<ident>EX-1833</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000009</id>
+				<ident>EX-1834</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000012</id>
+		<ident>EX-1837</ident>
+		<name>Normal</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000011</id>
+				<ident>EX-1836</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000019</id>
+		<ident>EX-1844</ident>
+		<name>Normal</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000015</id>
+				<ident>EX-1840</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000016</id>
+				<ident>EX-1841</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000017</id>
+				<ident>EX-1842</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000018</id>
+				<ident>EX-1843</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000020</id>
+		<ident>EX-1845</ident>
+		<name>Square</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000015</id>
+				<ident>EX-1840</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000018</id>
+				<ident>EX-1843</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000021</id>
+		<ident>EX-1846</ident>
+		<name>Normal</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000019</id>
+				<ident>EX-1844</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000012</id>
+				<ident>EX-1837</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000022</id>
+		<ident>EX-1847</ident>
+		<name>Image</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000020</id>
+				<ident>EX-1845</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000012</id>
+				<ident>EX-1837</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000032</id>
+		<ident>EX-1857</ident>
+		<name>Standard</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000030</id>
+				<ident>EX-1855</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000031</id>
+				<ident>EX-1856</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000033</id>
+		<ident>EX-1858</ident>
+		<name>Blue</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000031</id>
+				<ident>EX-1856</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000034</id>
+		<ident>EX-1859</ident>
+		<name>Red</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000030</id>
+				<ident>EX-1855</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000036</id>
+		<ident>EX-1861</ident>
+		<name>User</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000035</id>
+				<ident>EX-1860</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">-3</id>
+		<ident>ENG-3</ident>
+		<name>Engineering</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000032</id>
+				<ident>EX-1857</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000033</id>
+				<ident>EX-1858</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000034</id>
+				<ident>EX-1859</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000036</id>
+				<ident>EX-1861</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000013</id>
+		<ident>EX-1838</ident>
+		<name>Fast</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000014</id>
+				<ident>EX-1839</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000023</id>
+		<ident>EX-1848</ident>
+		<name>FastImage</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000020</id>
+				<ident>EX-1845</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000013</id>
+				<ident>EX-1838</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000027</id>
+		<ident>EX-1852</ident>
+		<name>Classic</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000032</id>
+				<ident>EX-1857</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000036</id>
+				<ident>EX-1861</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000028</id>
+		<ident>EX-1853</ident>
+		<name>TFBlue</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000033</id>
+				<ident>EX-1858</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000029</id>
+		<ident>EX-1854</ident>
+		<name>TFRed</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000034</id>
+				<ident>EX-1859</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">-2</id>
+		<ident>ENG-2</ident>
+		<name>Engineering</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000012</id>
+				<ident>EX-1837</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000013</id>
+				<ident>EX-1838</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000019</id>
+				<ident>EX-1844</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000020</id>
+				<ident>EX-1845</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000024</id>
+		<ident>EX-1849</ident>
+		<name>Photometry</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000022</id>
+				<ident>EX-1847</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000029</id>
+				<ident>EX-1854</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000028</id>
+				<ident>EX-1853</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000027</id>
+				<ident>EX-1852</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000025</id>
+		<ident>EX-1850</ident>
+		<name>Spectroscopy</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000021</id>
+				<ident>EX-1846</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000027</id>
+				<ident>EX-1852</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000029</id>
+				<ident>EX-1854</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000028</id>
+				<ident>EX-1853</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000004</id>
+				<ident>EX-1829</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000010</id>
+				<ident>EX-1835</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">2000000026</id>
+		<ident>EX-1851</ident>
+		<name>FastPhotometry</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000023</id>
+				<ident>EX-1848</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000006</id>
+				<ident>EX-1831</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000027</id>
+				<ident>EX-1852</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<mode>
+		<default-mode-id type="integer" nil="true"/>
+		<default-value-id type="integer" nil="true"/>
+		<id type="integer">-1</id>
+		<ident>ENG-1</ident>
+		<name>Engineering</name>
+		<node-type-id type="integer">6</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>Mode</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000004</id>
+				<ident>EX-1829</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000006</id>
+				<ident>EX-1831</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000010</id>
+				<ident>EX-1835</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000021</id>
+				<ident>EX-1846</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000022</id>
+				<ident>EX-1847</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000023</id>
+				<ident>EX-1848</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000027</id>
+				<ident>EX-1852</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000028</id>
+				<ident>EX-1853</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000029</id>
+				<ident>EX-1854</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">-2</id>
+				<ident>ENG-2</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">-3</id>
+				<ident>ENG-3</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</mode>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2201</id>
+		<ident>EX-1863</ident>
+		<name>Masks</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000001</id>
+				<ident>EX-1826</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000002</id>
+				<ident>EX-1827</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000003</id>
+				<ident>EX-1828</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000004</id>
+				<ident>EX-1829</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000005</id>
+				<ident>EX-1830</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000006</id>
+				<ident>EX-1831</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2202</id>
+		<ident>EX-1864</ident>
+		<name>Dispersion</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000007</id>
+				<ident>EX-1832</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000008</id>
+				<ident>EX-1833</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000009</id>
+				<ident>EX-1834</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000010</id>
+				<ident>EX-1835</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2204</id>
+		<ident>EX-1866</ident>
+		<name>expTime</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000011</id>
+				<ident>EX-1836</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000012</id>
+				<ident>EX-1837</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000013</id>
+				<ident>EX-1838</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000014</id>
+				<ident>EX-1839</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2205</id>
+		<ident>EX-1867</ident>
+		<name>Binning</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000015</id>
+				<ident>EX-1840</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000016</id>
+				<ident>EX-1841</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000017</id>
+				<ident>EX-1842</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000018</id>
+				<ident>EX-1843</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000019</id>
+				<ident>EX-1844</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000020</id>
+				<ident>EX-1845</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2207</id>
+		<ident>EX-1869</ident>
+		<name>ClassicFilters</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Value">
+				<id type="integer">2000000030</id>
+				<ident>EX-1855</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000031</id>
+				<ident>EX-1856</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000032</id>
+				<ident>EX-1857</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000033</id>
+				<ident>EX-1858</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000034</id>
+				<ident>EX-1859</ident>
+			</destination>
+			<destination type="Value">
+				<id type="integer">2000000035</id>
+				<ident>EX-1860</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000036</id>
+				<ident>EX-1861</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2203</id>
+		<ident>EX-1865</ident>
+		<name>Detector</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000021</id>
+				<ident>EX-1846</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000022</id>
+				<ident>EX-1847</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000023</id>
+				<ident>EX-1848</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2204</id>
+				<ident>EX-1866</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2205</id>
+				<ident>EX-1867</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">-2</id>
+				<ident>ENG-2</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2206</id>
+		<ident>EX-1868</ident>
+		<name>Filter</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000027</id>
+				<ident>EX-1852</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000028</id>
+				<ident>EX-1853</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000029</id>
+				<ident>EX-1854</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2207</id>
+				<ident>EX-1869</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">-3</id>
+				<ident>ENG-3</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+	<sub-system>
+		<default-mode-id type="integer" nil="true"/>
+		<id type="integer">2200</id>
+		<ident>EX-1862</ident>
+		<name>Instrument</name>
+		<node-type-id type="integer">4</node-type-id>
+		<project-id type="integer">13</project-id>
+		<type>SubSystem</type>
+		<destinations type="array">
+			<destination type="Mode">
+				<id type="integer">2000000024</id>
+				<ident>EX-1849</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000025</id>
+				<ident>EX-1850</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">2000000026</id>
+				<ident>EX-1851</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2201</id>
+				<ident>EX-1863</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2202</id>
+				<ident>EX-1864</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2203</id>
+				<ident>EX-1865</ident>
+			</destination>
+			<destination type="SubSystem">
+				<id type="integer">2206</id>
+				<ident>EX-1868</ident>
+			</destination>
+			<destination type="Mode">
+				<id type="integer">-1</id>
+				<ident>ENG-1</ident>
+			</destination>
+		</destinations>
+		<node-attributes type="array"/>
+		<labels type="array"/>
+	</sub-system>
+</sub-systems-v4>
