@@ -1,4 +1,5 @@
 # pyPORIS_user
+
 An example of how to use pyPORIS to model your own instruments
 
 The purpose of this repo is provide an starting point to fork, so every user can have her/his own modeling environment with her/his own models under control system.
@@ -9,24 +10,28 @@ The models are located in the models folder.  You can find there some examples w
 
 
 ## Requirements
-* Java
-* Python 3
-    * pip3 install bs4
-    * pip3 install lxml
-    * pip3 install pyexcel_ods
-    * pip3 install python-redmine
+
+- Java
+- Python 3
+
+Install python libraries:
+
+    pip3 install bs4
+    pip3 install lxml
+    pip3 install pyexcel_ods
+    pip3 install python-redmine
 
 NOTE: In Windows you should use 'pip' instead of 'pip3'
 
 ## Forking
 
-    Just go to Github https://github.com/cosmoBots/pyPORIS_user and press the fork button.  Set the new path, let's say you create the fork in https://github.com/myname/myporismodels
+Just go to Github https://github.com/cosmoBots/pyPORIS_user and press the fork button.  Set the new path, let's say you create the fork in https://github.com/myname/myporismodels
 
-    Then copy the clone link for the new forked repository and execute the typical clone action, something like this:
+Then copy the clone link for the new forked repository and execute the typical clone action, something like this:
 
     git clone git@github.com:myname/myporismodels.git
 
-    Then you can enter the cloned repository folder:
+Then you can enter the cloned repository folder:
 
     cd myporismodels
 
@@ -56,27 +61,27 @@ Apart from this transparent adaptation, the syntax is the same.
 
 The pyPORIS submodule is cloned and initialized from an specific commit entry, identified by a hash.  If you would like to update the submodule to point to another commit entry you should update it manually.  Let's say you want to update to a new commit entry 9343abf...
 
-cd pyPORIS
-git fetch --all
-git checkout -b 9343abf
-git pull
-cd ..
-git commit pyPORIS
-git commit -m "Updated to a different pyPORIS version"
+    cd pyPORIS
+    git fetch --all
+    git checkout -b 9343abf
+    git pull
+    cd ..
+    git commit pyPORIS
+    git commit -m "Updated to a different pyPORIS version"
 
 If you want to prepare your local copy to be regularly updating it to use latest pyPORIS version in the main branch:
 
-cd pyPORIS
-git fetch --all
-git checkout -b main
-git pull
-cd ..
-git commit pyPORIS
-git commit -m "Updated to the latest commit in main branch of pyPORIS"
+    cd pyPORIS
+    git fetch --all
+    git checkout -b main
+    git pull
+    cd ..
+    git commit pyPORIS
+    git commit -m "Updated to the latest commit in main branch of pyPORIS"
 
 and then, regularly update your pyPORIS using the following sentence.
 
-git submodule update --init --recursive
+    git submodule update --init --recursive
 
 Take into account that pyPORIS might be changing the syntaxes or the procedures, so you will be responsible of keeping your *.sh or *.bat files compatible with the version of pyPORIS you are using.
 
