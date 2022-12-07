@@ -5,7 +5,7 @@ if [%1]==[] (
 ) else (
     del models\%1.ods
     del models\%1.xml
-    copy .\pyPORIS\config_rm_disabled.py pyPORIS\config_rm.py
+    copy .\pyPORIS\config_csys_disabled.py .\pyPORIS\config_csys.py
 
     python pyPORIS\graph2poris.py models\%1.graphml
     if exist .\models\%1.ods (
