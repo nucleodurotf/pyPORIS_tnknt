@@ -2,3 +2,8 @@ models/*.ods
 models/*.xml
 models/*.backup
 __pycache__
+global_dict.json
+global_dict2.json
+inverse_aliases.json
+node_aliases.json
+normalized_dict.json
