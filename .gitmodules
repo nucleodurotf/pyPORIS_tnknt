@@ -1,4 +1,4 @@
 [submodule "pyPORIS"]
 	path = pyPORIS
 	url = https://github.com/cosmoBots/pyPORIS.git
-	branch = v0.41
+
